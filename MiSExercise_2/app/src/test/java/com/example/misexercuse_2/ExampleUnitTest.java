@@ -1,4 +1,4 @@
-package com.example.misexercise_2;
+package com.example.misexercuse_2;
 
 import org.junit.Test;
 
